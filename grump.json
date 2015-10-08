@@ -24,6 +24,10 @@
      "konbanwa": {
       "run": "sh",
       "path": "konbanwa.sh"
+    },
+    "jamata": {
+      "run": "sh",
+      "path": "jamata.sh"
     }
   }
 }
