@@ -17,10 +17,6 @@
       "run": "sh",
       "path": "ohaiyo.sh"
     },
-     "goodbye": {
-      "run": "sh",
-      "path": "goodbye.sh"
-    },
      "konbanwa": {
       "run": "sh",
       "path": "konbanwa.sh"
