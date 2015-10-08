@@ -24,6 +24,10 @@
     "jamata": {
       "run": "sh",
       "path": "jamata.sh"
+    },
+    "sup": {
+      "run": "sh",
+      "path": "sup.sh"
     }
   }
 }
