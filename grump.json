@@ -1,0 +1,17 @@
+{
+  "defaultCommand": "hello",
+  "commands": {
+    "hello": {
+      "run": "sh",
+      "path": "hello.sh"
+    },
+    "konnichiwa": {
+      "run": "sh",
+      "path": "konnichiwa.sh"
+    },
+    "gutentag": {
+      "run": "sh",
+      "path": "gutentag.sh"
+    }
+  }
+}
