@@ -13,13 +13,9 @@
       "run": "sh",
       "path": "gutentag.sh"
     },
-     "konbanwa": {
+    "test": {
       "run": "sh",
-      "path": "konbanwa.sh"
-    },
-    "yo": {
-      "run": "sh",
-      "path": "yo.sh"
+      "path": "test.sh"
     }
   }
 }
