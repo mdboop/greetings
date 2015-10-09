@@ -21,9 +21,9 @@
       "run": "sh",
       "path": "konbanwa.sh"
     },
-    "jamata": {
+    "yo": {
       "run": "sh",
-      "path": "jamata.sh"
+      "path": "yo.sh"
     },
     "sup": {
       "run": "sh",
