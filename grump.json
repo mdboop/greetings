@@ -21,9 +21,9 @@
       "run": "sh",
       "path": "konbanwa.sh"
     },
-    "heyo": {
+    "blarg": {
       "run": "sh",
-      "path": "heyo.sh"
+      "path": "blarg.sh"
     },
     "sup": {
       "run": "sh",
