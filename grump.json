@@ -14,8 +14,14 @@
       "path": "gutentag.sh"
     },
     "test": {
+      "path": "test.sh",
       "run": "sh",
-      "path": "test.sh"
+      "vars": {
+        "name": {
+          "default": "Fred",
+          "persist": false 
+        }
+      }
     }
   }
 }
