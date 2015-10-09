@@ -13,21 +13,13 @@
       "run": "sh",
       "path": "gutentag.sh"
     },
-     "ohaiyo": {
-      "run": "sh",
-      "path": "ohaiyo.sh"
-    },
      "konbanwa": {
       "run": "sh",
       "path": "konbanwa.sh"
     },
-    "blarg": {
+    "yo": {
       "run": "sh",
-      "path": "blarg.sh"
-    },
-    "sup": {
-      "run": "sh",
-      "path": "sup.sh"
+      "path": "yo.sh"
     }
   }
 }
